@@ -1,0 +1,11 @@
+/.metadata/
+.settings
+
+.class
+*.jar
+*.war
+*.ear
+
+target
+
+RemoteSystemsTempFiles
